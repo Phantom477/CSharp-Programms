@@ -8,6 +8,11 @@
 //     System.Console.WriteLine($"Максимальное число {num1}");
 // else if (num1<num2)
 //     System.Console.WriteLine($"Максимальное число {num2}");
+// if (num1>num2) 
+//     System.Console.WriteLine($"Минимальное число {num2}");
+// else if (num1<num2)
+//     System.Console.WriteLine($"Минимальное число {num1}");
+    
  
 
 // Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.

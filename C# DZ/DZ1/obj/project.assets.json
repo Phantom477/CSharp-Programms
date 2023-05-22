@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Galikeev\\.nuget\\packages\\": {}
+    "C:\\Users\\rusel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Galikeev\\Desktop\\C# DZ\\DZ1\\DZ1.csproj",
+      "projectUniqueName": "C:\\Users\\rusel\\OneDrive\\Рабочий стол\\CSharp-Programms\\C# DZ\\DZ1\\DZ1.csproj",
       "projectName": "DZ1",
-      "projectPath": "C:\\Users\\Galikeev\\Desktop\\C# DZ\\DZ1\\DZ1.csproj",
-      "packagesPath": "C:\\Users\\Galikeev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Galikeev\\Desktop\\C# DZ\\DZ1\\obj\\",
+      "projectPath": "C:\\Users\\rusel\\OneDrive\\Рабочий стол\\CSharp-Programms\\C# DZ\\DZ1\\DZ1.csproj",
+      "packagesPath": "C:\\Users\\rusel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rusel\\OneDrive\\Рабочий стол\\CSharp-Programms\\C# DZ\\DZ1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Galikeev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rusel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
