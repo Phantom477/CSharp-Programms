@@ -158,6 +158,26 @@
 // A (3,6); B (2,1) -> 5,09 
 // A (7,-5); B (1,-1) -> 7,21
 
+// String Squares(int num)
+// {
+//     String result = "";
+//     for(int i = 1;i<=num;i++)
+//     {
+//         result = result + Convert.ToString(Math.Pow(i,2));
+//         if(i != num)
+//             result = result + ", ";
+//     }
+//     return result;
+// }
+
+
+// System.Console.Write("Введите число: ");
+// int num = Convert.ToInt32(System.Console.ReadLine());
+
+// System.Console.WriteLine(Squares(num));
+
+
+// Др. решение:
 // double Length(double A1, double A2, double B1, double B2)
 // {
 //     double result = Math.Sqrt((B1-A1)*(B1-A1) + (B2-A2)*(B2-A2));
