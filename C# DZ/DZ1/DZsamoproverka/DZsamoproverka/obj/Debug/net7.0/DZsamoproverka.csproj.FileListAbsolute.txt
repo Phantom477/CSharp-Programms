@@ -1,0 +1,15 @@
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\bin\Debug\net7.0\DZsamoproverka.exe
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\bin\Debug\net7.0\DZsamoproverka.deps.json
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\bin\Debug\net7.0\DZsamoproverka.runtimeconfig.json
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\bin\Debug\net7.0\DZsamoproverka.dll
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\bin\Debug\net7.0\DZsamoproverka.pdb
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\DZsamoproverka.csproj.AssemblyReference.cache
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\DZsamoproverka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\DZsamoproverka.AssemblyInfoInputs.cache
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\DZsamoproverka.AssemblyInfo.cs
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\DZsamoproverka.csproj.CoreCompileInputs.cache
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\DZsamoproverka.dll
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\refint\DZsamoproverka.dll
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\DZsamoproverka.pdb
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\DZsamoproverka.genruntimeconfig.cache
+C:\Users\Галикеев Р.Т\Desktop\DZsamoproverka\DZsamoproverka\obj\Debug\net7.0\ref\DZsamoproverka.dll
